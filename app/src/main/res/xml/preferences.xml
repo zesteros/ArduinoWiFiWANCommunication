@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="@string/ip_preference_title"
+        android:hint="@string/ip_preference_hint"
+        android:key="@string/ip_preference"
+        android:summary="@string/ip_preference_summary"/>
+    <EditTextPreference
+        android:title="@string/port_preference_title"
+        android:hint="@string/port_preference_hint"
+        android:key="@string/port_preference"
+        android:summary="@string/port_preference_summary"
+        android:inputType="number"/>
+</PreferenceScreen>

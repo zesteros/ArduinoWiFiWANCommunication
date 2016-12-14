@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Solar Smart</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="ip_preference">ip_key</string>
+    <string name="ip_preference_hint">192.168.0.1/server.com</string>
+    <string name="ip_preference_title">Dirección IP</string>
+    <string name="port_preference_title">Puerto del Módulo</string>
+    <string name="port_preference_hint">1001/8080/443</string>
+    <string name="port_preference">port_key</string>
+    <string name="port_preference_summary">Asigna un puerto para obtener los datos</string>
+    <string name="ip_preference_summary">Asigna una dirección IP del módulo WiFi o un dominio (DNS)</string>
+    <string name="data_send_error">No se pudieron enviar datos</string>
+    <string name="data_send_success">Datos enviados correctamente</string>
+</resources>
